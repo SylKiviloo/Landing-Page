@@ -1,1 +1,1 @@
-# Landing-Page
+The Landing Page assignment for The Odin Project (Foundations) allowed me to use my CSS skills to layout and style a page based closely on a provided design.
